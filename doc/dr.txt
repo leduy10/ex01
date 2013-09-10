@@ -2,4 +2,6 @@ ex01
 
 ex01-1 -> ex01_1
 
+README.md.txt -> README.md
+
 tres bien
